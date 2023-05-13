@@ -1,0 +1,108 @@
+body {
+    font-family: sans-serif;
+}
+header {
+ background-color: red;  
+border-radius: 15px;
+color:white;
+
+
+
+
+}
+header a{
+  text-decoration: none;
+  color: white;
+
+
+
+} 
+main  a  {
+text-decoration: none;
+border-radius: 10px;
+background-color: red;
+color: white;
+padding: 5px;
+
+
+}
+header img {
+margin:10px ;
+
+
+}
+
+
+main h1 {
+  text-align: center;
+  color:rgb(255, 255, 255) ;
+  border-radius: 10px;
+background-color: red;
+
+
+}
+footer{
+ 
+background-color: red;
+border-radius: 15px;
+color: white;
+padding: 10px;
+}
+ nav a  {
+ color: white;
+ background-color: red;
+ padding: 5px;
+ border-radius: 5px;
+
+ }
+ nav {
+ text-align: center;
+ margin: 10px;
+ 
+
+ }
+ .menu {
+  background-color: red;
+  border-radius: 15px;
+  margin: 10px;
+  padding: 15px;
+  color: white;
+
+ }
+
+ .main {
+ background-color: red;
+ border-radius: 10px;
+ color: white;
+ padding: 10px;
+  
+
+ }
+
+ .O_o {
+  background-color: red;
+ border-radius: 10px;
+ color: white;
+ padding: 10px;
+  
+
+
+ }
+ .o_O{
+ background-color: red;
+ border-radius: 10px;
+ color: white;
+ padding: 10px;
+  
+
+
+ }
+ .LA {
+ background-color: red;
+ border-radius: 10px;
+ color: white;
+ padding: 10px;
+  
+
+
+ } 
